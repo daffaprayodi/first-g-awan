@@ -1,0 +1,97 @@
+@media(max-width:700px) {
+    /* ::start:: */
+    html,
+    body {
+        background-color: white;
+    }
+    .navbar-gcp .navbar-brand img {
+        width: 55px;
+    }
+    .index-gcp {
+        padding-bottom: 100px;
+    }
+    .loginmobile.offcanvas-bottom {
+        height: 85%;
+    }
+    .bg-on-mobile {
+        background: white;
+        margin-top: -125px;
+    }
+    .form-bottom {
+        margin-top: 0;
+    }
+    .container-mobile {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .navbar-gcp .btn-outline-primary-gcp {
+        padding: 10px;
+    }
+    .product-buy {
+        border: 1px solid #CED4DA;
+        background: white;
+        margin-top: -75px;
+    }
+    .promotion-gcp {
+        margin-top: 10px;
+    }
+    /* #######
+    BODYGCP
+    ########## */
+    .body-gcp img.banner-gcp {
+        border-radius: 0px;
+    }
+    .body-gcp {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    .body-gcp .page-name {
+        border-radius: 0;
+        padding-bottom: 215px;
+        padding-top: 120px;
+    }
+    /* Content */
+    .chev-select {
+        right: 25px;
+        top: 35%;
+    }
+    .tab-content .logo-gws {
+        margin-bottom: 20px;
+    }
+    .content-gcp {
+        padding-top: 20px;
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .body-gcp .form-gcp {
+        padding-left: 0;
+        padding-right: 0;
+        padding-top: 10px;
+    }
+    .place-email {
+        font-size: 12px;
+        right: 20px;
+    }
+    .jdl-section-form {
+        margin-bottom: 20px;
+    }
+    .jdl-section-line:before {
+        display: none;
+    }
+    .icon-list li {
+        width: 10.4%;
+        padding-right: 10px !important;
+        padding-bottom: 10px !important;
+    }
+    /* THXU */
+    .desc-section-thxu {
+        width: 100%;
+    }
+    .email-thxu {
+        width: 100%;
+    }
+    .section-thx {
+        padding-top: 25px;
+    }
+    /* ::end:: */
+}
