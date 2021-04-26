@@ -419,6 +419,13 @@ input[type="color"]:focus,
     line-height: 24px;
 }
 
+.product-buy .price-promo {
+    font-weight: 400;
+    color: #999B9D;
+    font-size: 12px;
+    line-height: 22px;
+}
+
 .product-buy .product-price {
     font-weight: 600;
     color: #3B78E7;
